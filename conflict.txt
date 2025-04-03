@@ -2,4 +2,4 @@
 a
 =======
 b
->>>>>>> feature_1
+new comment
