@@ -1,5 +1,5 @@
 class Solution(object):
-    def fourSum(self, nums, target):
+    def four__Sum__sajid(self, nums, target):
         nums.sort()
         result = []
         # n = len(nums)
