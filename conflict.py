@@ -1,9 +1,9 @@
 class Solution(object):
-    def Sum__sajid(self, nums, target):
+    def Sum_sajid_its_me_again(self, nums, target):
         nums.sort()
         result = []
-        # n = len(nums)
-	print(type(nums))
+        n = len(nums)
+        print(type(nums))
         
         for i in range(n - 3):
             if i > 0 and nums[i] == nums[i - 1]:
